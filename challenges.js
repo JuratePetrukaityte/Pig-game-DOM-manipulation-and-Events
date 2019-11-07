@@ -43,7 +43,7 @@ document.querySelector('.btn-roll').addEventListener('click', function(){
             nextPlayer();
         }
 
-
+        // Code for the second challenge
         // if(dice === 6 && lastDice === 6){
         //     // Player looses score
         //     scores[activePlayer] = 0;
